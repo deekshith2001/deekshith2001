@@ -1,7 +1,7 @@
 # Deekshith Sai Teja Komira - Professional GitHub Profile
 
 ## About Me
-Hello! I am Deekshith Sai Teja Komira, a master's student in **Data Analytics** at Tufts University, with a strong foundation in **data science, machine learning**, and **business intelligence**. My passion lies in leveraging data to solve complex problems and deliver actionable insights.
+Hello! I am Deekshith Sai Teja Komira, a master's student in **Data Analytics** at Tufts University, with a strong foundation in **data science, machine learning**, and **business intelligence** **Bioinformatics Analyst**. My passion lies in leveraging data to solve complex problems and deliver actionable insights.
 
 ---
 
