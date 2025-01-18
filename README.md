@@ -86,10 +86,57 @@ Hello! I am Deekshith Sai Teja Komira, a master's student in **Data Analytics** 
 
 ---
 
+## Bioinformatics Analyst Position Application
+
+### Expression of Interest
+I am writing to express my interest in the Bioinformatics Analyst position at Brigham and Women’s Hospital. With a strong foundation in computational biology, data analytics, and bioinformatics, I am enthusiastic about contributing to your research efforts in understanding inflammation and tissue damage in autoimmune diseases.
+
+### Responses to Application Questions
+
+#### 1. Experience with Bioinformatics Analysis Pipelines
+I have extensive experience in developing and applying bioinformatics pipelines for analyzing single-cell and bulk RNA-seq datasets. Key highlights include:
+
+- **Pipeline Development**: Developed end-to-end bioinformatics pipelines for preprocessing, alignment, and differential expression analysis using tools like STAR, HISAT2, and Kallisto.
+- **Single-Cell Data**: Utilized Seurat and Scanpy for clustering and visualization, ensuring accurate cell-type identification.
+- **Spatial Data**: Explored spatial transcriptomics using SpatialDE and STUtility for tissue-specific gene expression analysis.
+- **Programming Languages**: Proficient in Python (Pandas, NumPy, SciPy) and R (Seurat, ggplot2, dplyr), with workflow automation using Snakemake and Nextflow.
+- **Cloud Computing**: Leveraged AWS and Google Cloud for scalable processing of large RNA-seq datasets.
+
+#### 2. Alignment Tools and Quality Metrics
+For RNA-seq alignment and quality control, I typically use:
+- **Alignment Tools**:
+  - STAR: Fast and accurate for bulk RNA-seq.
+  - HISAT2: Efficient for large genomes.
+  - Cell Ranger: Optimized for single-cell RNA-seq.
+  - Kallisto: Pseudo-alignment for exploratory analyses.
+- **Quality Metrics**:
+  - Read Quality: FastQC for checking quality and contamination.
+  - Mapping Efficiency: Percentage of uniquely mapped reads.
+  - Duplication Rates: Picard tools for monitoring duplication.
+  - Batch Effects: Tools like ComBat or Harmony to remove technical variations.
+
+#### 3. Identifying Groups of Cells or Gene Sets
+To identify groups of cells or gene sets:
+- Normalize data and identify highly variable genes.
+- Apply dimensionality reduction (PCA, t-SNE, UMAP).
+- Perform clustering using Louvain or k-means.
+- Use differential expression analysis to identify marker genes.
+- Conduct gene set enrichment analysis with GSEA or DAVID.
+
+#### 4. Cross-Species Single-Cell RNA-Seq Comparison
+To compare datasets from mice and humans:
+1. Normalize and preprocess data.
+2. Map orthologous genes using Ensembl Biomart or HomoloGene.
+3. Integrate datasets using Seurat v3 Integration or Liger.
+4. Identify clusters and compare transcriptional profiles.
+5. Visualize results with integrated UMAP plots and comparative heatmaps.
+
+---
+
 ## Connect with Me
 
-- **Email**: [deekshithsaiteja25@gmail.com](mailto:deekshithsaiteja25@gmail.com)
-- **LinkedIn**: [linkedin.com/in/deekshithdatasciencedataanalytics](https://www.linkedin.com/in/deekshithdatasciencedataanalytics)
+- **Email**: (mailto:deekshithsaiteja25@gmail.com)
+- **LinkedIn**: (https://www.linkedin.com/in/deekshithdatasciencedataanalytics)
 
 ---
 
