@@ -86,12 +86,7 @@ Hello! I am Deekshith Sai Teja Komira, a master's student in **Data Analytics** 
 
 ---
 
-## Bioinformatics Analyst Position Application
-
-### Expression of Interest
-I am writing to express my interest in the Bioinformatics Analyst position at Brigham and Women’s Hospital. With a strong foundation in computational biology, data analytics, and bioinformatics, I am enthusiastic about contributing to your research efforts in understanding inflammation and tissue damage in autoimmune diseases.
-
-### Responses to Application Questions
+## Bioinformatics Analyst 
 
 #### 1. Experience with Bioinformatics Analysis Pipelines
 I have extensive experience in developing and applying bioinformatics pipelines for analyzing single-cell and bulk RNA-seq datasets. Key highlights include:
