@@ -8,8 +8,8 @@ I am a master's student in Data Analytics at Tufts University with expertise in 
 </p>
 
 <p align="center"> 
-  <a href="https://github-profile-trophy.vercel.app/?username=deekshith2001">
-    <img src="https://github-profile-trophy.vercel.app/?username=deekshith2001" alt="GitHub Trophies" />
+  <a href="https://github-profile-trophy.vercel.app/?username=deekshith2001&theme=onedark&no-bg=true&no-frame=true&column=7&titles=commits,repositories,contributions,code,organization">
+    <img src="https://github-profile-trophy.vercel.app/?username=deekshith2001&theme=onedark&no-bg=true&no-frame=true&column=7&titles=commits,repositories,contributions,code,organization" alt="GitHub Trophies" />
   </a> 
 </p>
 
