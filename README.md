@@ -1,4 +1,4 @@
-# Deekshith Sai Teja Komira - Professional GitHub Profile
+# Deekshith Sai Teja Komira 
 
 Welcome to my GitHub profile! I am a dedicated data professional with expertise in data analysis, machine learning, business intelligence, and software engineering. This README serves as a portfolio of my academic, professional, and personal projects showcasing my passion for solving real-world problems through data-driven solutions.
 
