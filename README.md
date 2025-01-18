@@ -95,23 +95,10 @@ I am a master's student in Data Analytics at Tufts University with expertise in 
 
 ---
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/deekshith">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-  </a>
-</p>
-
----
-
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deekshith2001&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=deekshith2001&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deekshith2001" alt="GitHub Streak" />
 </p>
