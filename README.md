@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deekshith Sai Teja Komira</h1>
 <h3 align="center">
-I am a master's student in Data Analytics at Tufts University with expertise in data science, machine learning, and business intelligence. My interests include leveraging data to solve complex problems and delivering actionable insights. Currently, I am exploring bioinformatics as an analyst, applying data-driven techniques to advance healthcare and life sciences.
+I am a master's student in Computer Science at Tufts University with expertise in data science, machine learning, and business intelligence. My interests include leveraging data to solve complex problems and delivering actionable insights. Currently, I am exploring bioinformatics as an analyst, applying data-driven techniques to advance healthcare and life sciences.
 </h3>
 
 <p align="center"> 
